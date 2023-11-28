@@ -1,11 +1,9 @@
-/*
 import React from "react"
 import ReactDOM from "react-dom"
-*/
-
-import Header from "../../my-app/src/Header"
-import Footer from "../../my-app/src/Footer"
-import MainContent from "../../my-app/src/MainContent"
+import Header from "./Components/Header"
+import Footer from "./Components/Footer"
+import MainContent from "./Components/MainContent"
+import "./index.css"
 
 function App() {
     return (
